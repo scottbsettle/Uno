@@ -1,0 +1,78 @@
+﻿Build started 8/5/2015 4:08:42 AM.
+     1>Project "C:\Users\User\Desktop\old\PG2 Project\Card Game\Card Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Card.cpp Computer.cpp Console.cpp Deck.cpp Game.cpp Human.cpp Lab1_Test.cpp Lab2_Test.cpp Lab3_Test.cpp Lab4_Test.cpp Lab5_Test.cpp Lab7_Test.cpp main.cpp Player.cpp src\AssertException.cpp src\Checks.cpp src\CurrentTest.cpp src\DeferredTestReporter.cpp src\DeferredTestResult.cpp src\MemoryOutStream.cpp src\ReportAssert.cpp src\Test.cpp src\TestDetails.cpp src\TestList.cpp src\TestReporter.cpp src\TestReporterStdout.cpp src\TestResults.cpp src\TestRunner.cpp src\TimeConstraint.cpp src\TimeHelpers.cpp src\XmlTestReporter.cpp TestManager.cpp
+         TestManager.cpp
+         XmlTestReporter.cpp
+         TimeHelpers.cpp
+         TimeConstraint.cpp
+         TestRunner.cpp
+         TestResults.cpp
+         TestReporterStdout.cpp
+         TestReporter.cpp
+         TestList.cpp
+         TestDetails.cpp
+         Test.cpp
+         ReportAssert.cpp
+         MemoryOutStream.cpp
+         DeferredTestResult.cpp
+         DeferredTestReporter.cpp
+         CurrentTest.cpp
+         Checks.cpp
+         AssertException.cpp
+         Player.cpp
+         main.cpp
+         Generating Code...
+         Compiling...
+         Lab7_Test.cpp
+         Lab5_Test.cpp
+         Lab4_Test.cpp
+         Lab3_Test.cpp
+         Lab2_Test.cpp
+         Lab1_Test.cpp
+         Human.cpp
+         Game.cpp
+         Deck.cpp
+         Console.cpp
+         Computer.cpp
+         Card.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\old\PG2 Project\Debug\Card Game.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\old\PG2 Project\Debug\Card Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\old\PG2 Project\Debug\Card Game.lib" /MACHINE:X86 Debug\Card.obj
+         Debug\Computer.obj
+         Debug\Console.obj
+         Debug\Deck.obj
+         Debug\Game.obj
+         Debug\Human.obj
+         Debug\Lab1_Test.obj
+         Debug\Lab2_Test.obj
+         Debug\Lab3_Test.obj
+         Debug\Lab4_Test.obj
+         Debug\Lab5_Test.obj
+         Debug\Lab7_Test.obj
+         Debug\main.obj
+         Debug\Player.obj
+         Debug\AssertException.obj
+         Debug\Checks.obj
+         Debug\CurrentTest.obj
+         Debug\DeferredTestReporter.obj
+         Debug\DeferredTestResult.obj
+         Debug\MemoryOutStream.obj
+         Debug\ReportAssert.obj
+         Debug\Test.obj
+         Debug\TestDetails.obj
+         Debug\TestList.obj
+         Debug\TestReporter.obj
+         Debug\TestReporterStdout.obj
+         Debug\TestResults.obj
+         Debug\TestRunner.obj
+         Debug\TimeConstraint.obj
+         Debug\TimeHelpers.obj
+         Debug\XmlTestReporter.obj
+         Debug\TestManager.obj
+         Card Game.vcxproj -> C:\Users\User\Desktop\old\PG2 Project\Debug\Card Game.exe
+     1>Done Building Project "C:\Users\User\Desktop\old\PG2 Project\Card Game\Card Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.04
